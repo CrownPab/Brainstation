@@ -22,6 +22,6 @@ There is one flatten layer to bring all the levels down to one plain
 
 ## Summary of Evaluation 
 
-On average the model will acheive a testing accuracy of around 80%
+On average the model will acheive a testing accuracy of around 82%
 
 
